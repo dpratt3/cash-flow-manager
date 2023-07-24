@@ -5,5 +5,7 @@ print(kings)
 
 hist(kings, col = "Firebrick")
 
+plot.ts(kings)
+
 
 
